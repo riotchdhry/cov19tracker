@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';
-import {Map, TileLayer, Marker, Tooltip,Circle,Popup} from 'react-leaflet'
+import { Popup } from 'react-leaflet'
 
 import {fetchNumbers, fetchCountries} from '../../api'
 

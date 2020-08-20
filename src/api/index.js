@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React from 'react'
 
-import {Map, TileLayer, Marker, Tooltip,Circle,Popup} from 'react-leaflet'
+import { Circle,Popup } from 'react-leaflet'
 const url = "https://covid19.mathdro.id/api";
 const caseTypeColors= {
     confirmed: {
