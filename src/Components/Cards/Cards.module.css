@@ -6,11 +6,11 @@
     padding-right: 20px !important;
 }
 .infected{
-    border-bottom: 10px solid blue;
+    border-bottom: 20px solid blue;
 }
 .recovered{
-    border-bottom: 10px solid green;
+    border-bottom: 20px solid green;
 }
 .deaths{
-    border-bottom: 10px solid red;
+    border-bottom: 20px solid red;
 }
